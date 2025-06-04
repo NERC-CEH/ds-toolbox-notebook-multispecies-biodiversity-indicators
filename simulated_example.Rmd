@@ -2,7 +2,7 @@
 title: 'Understanding the error of Multispecies Biodiversity Indicators: A simulated example'
 author: "Rob Boyd"
 date: "2025-05-20"
-output: word_document
+format: ipynb
 ---
 
 ```{r setup, include=FALSE}
